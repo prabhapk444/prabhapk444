@@ -45,7 +45,6 @@ whoami:
 I'm **Prabhakaran**, a Full Stack Developer and the Founder of **Thrive Boost**, where I design and ship production-grade web platforms, e-commerce systems, and internal business tools for real clients — from architecture to deployment.
 
 - 🏗️ **Software Engineering** — I build maintainable, role-secured, production-ready systems using React, TypeScript, and CodeIgniter/PHP backends, backed by MySQL and Firebase.
-- 🤖 **AI-Augmented Development** — I integrate tools like Claude, ChatGPT, Gemini, and Lovable into my day-to-day engineering workflow to ship faster without compromising code quality.
 - 🌐 **Full Stack Ownership** — From UI to database schema to deployment pipelines (Vercel, Netlify, Hostinger), I own the full delivery lifecycle.
 - 🎯 **Product Engineering Mindset** — Every project I've shipped has gone from client requirement → working product → live deployment → post-launch support.
 
@@ -272,10 +271,10 @@ Completed a part-time internship spanning web development, .NET, and manual test
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=prabhapk444&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=7C3AED"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=prabhapk444&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9"/>
 <img height="165" src="https://streak-stats.demolab.com?user=prabhapk444&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA"/>
 
-<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhapk444&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
+<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhapk444&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
 
 </div>
 
@@ -285,7 +284,7 @@ Completed a part-time internship spanning web development, .NET, and manual test
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=prabhapk444&theme=algolia&no-frame=true&no-bg=true&margin-w=12&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=prabhapk444&theme=radical&no-frame=true&no-bg=true&margin-w=12&column=6"/>
 
 </div>
 

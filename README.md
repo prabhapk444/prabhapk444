@@ -42,7 +42,7 @@ whoami:
   philosophy: "Ship reliable, user-focused digital products end-to-end."
 ```
 
-I'm **Prabhakaran**, a Full Stack Developer and the Founder of **Thrive Boost**, where I design and ship production-grade web platforms, e-commerce systems, and internal business tools for real clients — from architecture to deployment.
+I'm **Prabhakaran**, a software developer  and the Founder of **Thrive Boost**, where I design and ship production-grade web platforms, e-commerce systems, and internal business tools for real clients — from architecture to deployment.
 
 - 🏗️ **Software Engineering** — I build maintainable, role-secured, production-ready systems using React, TypeScript, and CodeIgniter/PHP backends, backed by MySQL and Firebase.
 - 🌐 **Full Stack Ownership** — From UI to database schema to deployment pipelines (Vercel, Netlify, Hostinger), I own the full delivery lifecycle.

@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=S%20Prabhakaran&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Founder%20%40%20Thrive%20Boost&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=S%20Prabhakaran&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software Developer%20%7C%20Founder%20%40%20Thrive%20Boost&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+TypeScript+%7C+Node.js+%7C+PHP;Building+Scalable+Web+%26+Mobile+Products;Founder+%40+Thrive+Boost" alt="Typing SVG" />
